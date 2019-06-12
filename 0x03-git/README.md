@@ -1,4 +1,3 @@
 git directory
 
-change from github
-
+change usng github editor
